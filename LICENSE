@@ -2,6 +2,9 @@ MIT License
 
 Copyright (c) 2026 5ac AI Lab (5ac.vn)
 
+Portions derived from MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark (MIT)
+https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
