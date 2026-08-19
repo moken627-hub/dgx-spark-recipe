@@ -1,0 +1,7 @@
+.env.dspark
+.env
+*.log
+logs/
+nohup.out
+__pycache__/
+*.pyc
